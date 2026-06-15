@@ -32,7 +32,8 @@ export default function HomePage() {
     <>
       <Helmet>
         <title>
-          CycleChain - Kelola Limbah Bisnis Anda Dari Pickup Hingga Proses Akhir
+          Cycle Value - Kelola Limbah Bisnis Anda Dari Pickup Hingga Proses
+          Akhir
         </title>
         <meta
           name="description"
@@ -147,7 +148,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* CycleChain Registration Section */}
+        {/* Cycle Value Registration Section */}
         <section className="py-24 bg-secondary">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -158,7 +159,7 @@ export default function HomePage() {
                 transition={{ duration: 0.6 }}
               >
                 <h2 className="text-3xl md:text-4xl font-bold text-secondary-foreground mb-6">
-                  Bergabung sebagai Member CycleChain
+                  Bergabung sebagai Member Cycle Value
                 </h2>
                 <p className="text-lg text-secondary-foreground/80 mb-8 leading-relaxed">
                   Dapatkan akses penuh ke sistem manajemen limbah kami dengan
@@ -503,7 +504,7 @@ export default function HomePage() {
               <Accordion type="single" collapsible className="w-full">
                 <FAQItem
                   value="item-1"
-                  question="Jenis limbah apa saja yang bisa dikelola oleh CycleChain?"
+                  question="Jenis limbah apa saja yang bisa dikelola oleh Cycle Value?"
                   answer="Kami mengelola tiga kategori utama: limbah organik (sisa makanan, daun, bahan organik), limbah anorganik (plastik, kertas, logam, kaca), dan limbah elektronik (perangkat elektronik bekas). Setiap kategori ditangani dengan metode yang sesuai untuk memaksimalkan daur ulang dan meminimalkan dampak lingkungan."
                 />
                 <FAQItem
@@ -514,7 +515,7 @@ export default function HomePage() {
                 <FAQItem
                   value="item-3"
                   question="Apakah ada biaya untuk layanan pickup?"
-                  answer="Biaya pickup bervariasi tergantung pada jenis limbah, volume, dan lokasi. Untuk limbah yang memiliki nilai ekonomis (seperti plastik, logam, kertas), kami bahkan memberikan kompensasi. Member CycleChain mendapatkan harga khusus dan berbagai keuntungan tambahan."
+                  answer="Biaya pickup bervariasi tergantung pada jenis limbah, volume, dan lokasi. Untuk limbah yang memiliki nilai ekonomis (seperti plastik, logam, kertas), kami bahkan memberikan kompensasi. Member Cycle Value mendapatkan harga khusus dan berbagai keuntungan tambahan."
                 />
                 <FAQItem
                   value="item-4"
@@ -523,12 +524,12 @@ export default function HomePage() {
                 />
                 <FAQItem
                   value="item-5"
-                  question="Apa keuntungan menjadi member CycleChain?"
+                  question="Apa keuntungan menjadi member Cycle Value?"
                   answer="Member mendapatkan berbagai keuntungan termasuk penjadwalan pickup otomatis, dashboard tracking real-time, laporan dampak lingkungan bulanan, harga khusus, konsultasi gratis dengan ahli manajemen limbah, dan sertifikat pengelolaan limbah yang bertanggung jawab untuk keperluan CSR perusahaan."
                 />
                 <FAQItem
                   value="item-6"
-                  question="Apakah CycleChain melayani area di luar kota besar?"
+                  question="Apakah Cycle Value melayani area di luar kota besar?"
                   answer="Saat ini kami melayani area perkotaan utama dan sekitarnya. Namun, kami terus memperluas jangkauan layanan. Untuk area di luar cakupan saat ini, silakan hubungi tim kami untuk mendiskusikan kemungkinan layanan khusus atau kemitraan regional."
                 />
               </Accordion>
@@ -550,7 +551,7 @@ export default function HomePage() {
               </h2>
               <p className="text-lg md:text-xl mb-10 leading-relaxed opacity-90 max-w-2xl mx-auto">
                 Bergabunglah dengan ratusan bisnis yang telah mempercayakan
-                pengelolaan limbah mereka kepada CycleChain. Mulai perjalanan
+                pengelolaan limbah mereka kepada Cycle Value. Mulai perjalanan
                 menuju operasi yang lebih berkelanjutan hari ini.
               </p>
               <Button

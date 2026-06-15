@@ -15,7 +15,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center">
                 <Leaf className="w-6 h-6 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">CycleChain</span>
+              <span className="text-xl font-bold">Cycle Value</span>
             </div>
             <p className="text-sm leading-relaxed max-w-md mb-4 text-secondary-foreground/80">
               Solusi manajemen limbah terpadu untuk bisnis Anda. Dari pickup
@@ -124,7 +124,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="pt-8 border-t border-border/50">
           <p className="text-sm text-center text-secondary-foreground/70">
-            © {currentYear} CycleChain. All rights reserved.
+            © {currentYear} Cycle Value. All rights reserved.
           </p>
         </div>
       </div>

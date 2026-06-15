@@ -26,7 +26,7 @@ export default function Header() {
               <Leaf className="w-6 h-6 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold text-foreground">
-              CycleChain
+              Cycle Value
             </span>
           </Link>
 
