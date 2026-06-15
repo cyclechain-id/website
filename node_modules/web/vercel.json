@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install",
+  "buildCommand": "npx vite build --outDir ../../dist/apps/web",
+  "outputDirectory": "../../dist/apps/web"
+}
